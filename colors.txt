@@ -3,4 +3,4 @@ orange
 blue
 indigo
 purple
-indigo
+pink
